@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | VILLA</title>
+    <link>/publication-type/1/</link>
+      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2020` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
+      <title>1</title>
+      <link>/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>A Similarity Inference Metric for RGB-Infrared Cross-Modality Person Re-identification</title>
+      <link>/publication/100001/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/100001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Two-stage Separable Deep Learning Framework for Practical Blind Watermarking</title>
+      <link>/publication/100002/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/100002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISTA-Net: Interpretable Optimization-Inspired Deep Network for Image Compressive Sensing</title>
+      <link>/publication/100003/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/100003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective Quadtree Plus Binary Tree Block Partition Decision for Future Video Coding</title>
+      <link>/publication/100004/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/100004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globally Variance-Constrained Sparse Representation for Rate-Distortion Optimized Image Representation</title>
+      <link>/publication/100005/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/100005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Motion Vector Resolution Scheme for Enhanced Video Coding</title>
+      <link>/publication/100009/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/100009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compressive-Sensed Image Coding via Stripe-based DPCM</title>
+      <link>/publication/100008/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/100008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonconvex Lp Nuclear Norm based ADMM Framework for Compressed Sensing</title>
+      <link>/publication/100007/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/100007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure-driven Adaptive Non-local Filter for High Efficiency Video Coding (HEVC)</title>
+      <link>/publication/100006/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/100006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Dual Structured-Sparsity Model for Compressive-Sensed Video Reconstruction</title>
+      <link>/publication/100010/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/100010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Visual Comfort Assessment Metric for Stereoscopic Images</title>
+      <link>/publication/100013/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/100013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Local Nonparametric Regression for Fast Single Image Super-Resolution</title>
+      <link>/publication/100011/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/100011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Block-Based Compressive Sensing Coding of Natural Images by Local Structural Measurement Matrix</title>
+      <link>/publication/100017/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/100017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Deblocking Using Group-based Sparse Representation and Quantization Constraint Prior</title>
+      <link>/publication/100012/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/100012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Denoising via Adaptive Soft-Thresholding Based on Non-Local Samples</title>
+      <link>/publication/100016/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/100016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Super-Resolution based on Dictionary Learning and Anchored Neighborhood Regression with Mutual Incoherence</title>
+      <link>/publication/100014/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/100014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single Image Super-Resolution via Iterative Collaborative Representation</title>
+      <link>/publication/100015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/100015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Quality Image Reconstruction via Non-Local Collaborative Estimation for Wireless Image/Video Softcast</title>
+      <link>/publication/100018/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/100018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Highly Effective Error Concealment Method for Whole Frame Loss</title>
+      <link>/publication/100023/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/100023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Total Variation based Image Compressive Sensing Recovery by Nonlocal Regularization</title>
+      <link>/publication/100022/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/100022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatially Directional Predictive Coding for Block-based Compressive Sensing of Natural Images</title>
+      <link>/publication/100019/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/100019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural Group Sparse Representation for Image Compressive Sensing Recovery</title>
+      <link>/publication/100021/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/100021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wavelet Inpainting Driven Image Compression via Collaborative Sparsity at Low Bit Rates</title>
+      <link>/publication/100020/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/100020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compressed Sensing Recovery via Collaborative Sparsity</title>
+      <link>/publication/100024/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/100024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Image Local and Nonlocal Consistency for Mixed Gaussian-Impulse Noise Removal</title>
+      <link>/publication/100026/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/100026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Interpolation via Local Autoregressive and Nonlocal 3-D Sparse Regularization</title>
+      <link>/publication/100028/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/100028/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Primitive Coding and Visual Quality Assessment</title>
+      <link>/publication/100027/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/100027/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Super-Resolution via Dual-Dictionary Learning and Sparse Representation</title>
+      <link>/publication/100025/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/100025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Quality Image Interpolation via Local Autoregressive and Nonlocal 3-D Sparse Regularization</title>
+      <link>/publication/100029/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/100029/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Bit-rate Image Coding via Interpolation Oriented Adaptive Down-sampling</title>
+      <link>/publication/100030/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/100030/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast and Effective Interpolation Using Median Filter</title>
+      <link>/publication/100031/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/100031/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

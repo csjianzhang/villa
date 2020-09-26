@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chuanmin Jia | VILLA</title>
+    <link>/author/chuanmin-jia/</link>
+      <atom:link href="/author/chuanmin-jia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chuanmin Jia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2020` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
+      <title>Chuanmin Jia</title>
+      <link>/author/chuanmin-jia/</link>
+    </image>
+    
+    <item>
+      <title>Nonlocal in-loop filter: The way toward next-generation video coding?</title>
+      <link>/publication/200018/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/200018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure-driven Adaptive Non-local Filter for High Efficiency Video Coding (HEVC)</title>
+      <link>/publication/100006/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/100006/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

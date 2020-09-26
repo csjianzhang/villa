@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lei Qin | VILLA</title>
+    <link>/author/lei-qin/</link>
+      <atom:link href="/author/lei-qin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lei Qin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2020` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
+      <title>Lei Qin</title>
+      <link>/author/lei-qin/</link>
+    </image>
+    
+    <item>
+      <title>Structure-aware local sparse coding for visual tracking</title>
+      <link>/publication/200006/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/200006/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

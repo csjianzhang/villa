@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaopeng Fan | VILLA</title>
+    <link>/author/xiaopeng-fan/</link>
+      <atom:link href="/author/xiaopeng-fan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaopeng Fan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2020` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
+      <title>Xiaopeng Fan</title>
+      <link>/author/xiaopeng-fan/</link>
+    </image>
+    
+    <item>
+      <title>Reducing image compression artifacts by structural sparse representation and quantization constraint prior</title>
+      <link>/publication/200011/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/200011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Visual Comfort Assessment Metric for Stereoscopic Images</title>
+      <link>/publication/100013/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/100013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Block-Based Compressive Sensing Coding of Natural Images by Local Structural Measurement Matrix</title>
+      <link>/publication/100017/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/100017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Interpolation via Local Autoregressive and Nonlocal 3-D Sparse Regularization</title>
+      <link>/publication/100028/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/100028/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

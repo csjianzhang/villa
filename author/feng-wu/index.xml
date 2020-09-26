@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feng Wu | VILLA</title>
+    <link>/author/feng-wu/</link>
+      <atom:link href="/author/feng-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Feng Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2020` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
+      <title>Feng Wu</title>
+      <link>/author/feng-wu/</link>
+    </image>
+    
+    <item>
+      <title>Power distortion optimization for uncoded linear transformed transmission of images and videos</title>
+      <link>/publication/200010/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/200010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image denoising via bandwise adaptive modeling and regularization exploiting nonlocal similarity</title>
+      <link>/publication/200014/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/200014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Quality Image Reconstruction via Non-Local Collaborative Estimation for Wireless Image/Video Softcast</title>
+      <link>/publication/100018/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/100018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

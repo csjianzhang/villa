@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hangfan Liu | VILLA</title>
+    <link>/author/hangfan-liu/</link>
+      <atom:link href="/author/hangfan-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hangfan Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2020` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
+      <title>Hangfan Liu</title>
+      <link>/author/hangfan-liu/</link>
+    </image>
+    
+    <item>
+      <title>Image denoising via bandwise adaptive modeling and regularization exploiting nonlocal similarity</title>
+      <link>/publication/200014/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/200014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Denoising via Adaptive Soft-Thresholding Based on Non-Local Samples</title>
+      <link>/publication/100016/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/100016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

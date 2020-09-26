@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruiqin Xiong | VILLA</title>
+    <link>/author/ruiqin-xiong/</link>
+      <atom:link href="/author/ruiqin-xiong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ruiqin Xiong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2020` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
+      <title>Ruiqin Xiong</title>
+      <link>/author/ruiqin-xiong/</link>
+    </image>
+    
+    <item>
+      <title>Low-rank-based nonlocal adaptive loop filter for high-efficiency video compression</title>
+      <link>/publication/200015/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/200015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power distortion optimization for uncoded linear transformed transmission of images and videos</title>
+      <link>/publication/200010/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/200010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video compressive sensing reconstruction via reweighted residual sparsity</title>
+      <link>/publication/200012/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/200012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CONCOLOR: Constrained non-convex low-rank model for image deblocking</title>
+      <link>/publication/200020/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/200020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image denoising via bandwise adaptive modeling and regularization exploiting nonlocal similarity</title>
+      <link>/publication/200014/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/200014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Dual Structured-Sparsity Model for Compressive-Sensed Video Reconstruction</title>
+      <link>/publication/100010/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/100010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Denoising via Adaptive Soft-Thresholding Based on Non-Local Samples</title>
+      <link>/publication/100016/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/100016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Quality Image Reconstruction via Non-Local Collaborative Estimation for Wireless Image/Video Softcast</title>
+      <link>/publication/100018/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/100018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image restoration using joint statistical modeling in a space-transform domain</title>
+      <link>/publication/200022/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/200022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Total Variation based Image Compressive Sensing Recovery by Nonlocal Regularization</title>
+      <link>/publication/100022/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/100022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compressed Sensing Recovery via Collaborative Sparsity</title>
+      <link>/publication/100024/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/100024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Image Local and Nonlocal Consistency for Mixed Gaussian-Impulse Noise Removal</title>
+      <link>/publication/100026/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/100026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image compressive sensing recovery via collaborative sparsity</title>
+      <link>/publication/200025/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/200025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Primitive Coding and Visual Quality Assessment</title>
+      <link>/publication/100027/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/100027/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Super-Resolution via Dual-Dictionary Learning and Sparse Representation</title>
+      <link>/publication/100025/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/100025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Quality Image Interpolation via Local Autoregressive and Nonlocal 3-D Sparse Regularization</title>
+      <link>/publication/100029/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/100029/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpolation-dependent image downsampling</title>
+      <link>/publication/200026/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/200026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Bit-rate Image Coding via Interpolation Oriented Adaptive Down-sampling</title>
+      <link>/publication/100030/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/100030/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

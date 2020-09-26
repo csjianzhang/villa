@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | VILLA</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2020` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>End-to-end Learned, Optically Coded Super-resolution SPAD Camera</title>
+      <link>/publication/200002/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/200002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization-Inspired Compact Deep Compressive Sensing</title>
+      <link>/publication/200001/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/200001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborative representation cascade for single-image super-resolution</title>
+      <link>/publication/200009/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/200009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Divisively Normalized Sparse Coding: Toward Perceptual Visual Signal Representation</title>
+      <link>/publication/200003/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/200003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CREAM: CNN-REgularized ADMM framework for compressive-sensed image reconstruction</title>
+      <link>/publication/200004/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/200004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globally variance-constrained sparse representation and its application in image set coding</title>
+      <link>/publication/200007/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/200007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic decision based block partitioning for future video coding</title>
+      <link>/publication/200005/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/200005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure-aware local sparse coding for visual tracking</title>
+      <link>/publication/200006/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/200006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive progressive motion vector resolution selection based on rate-distortion optimization</title>
+      <link>/publication/200013/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/200013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropy of primitive: From sparse representation to visual information evaluation</title>
+      <link>/publication/200017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/200017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fourier ptychographic microscopy with sparse representation</title>
+      <link>/publication/200008/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/200008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-rank-based nonlocal adaptive loop filter for high-efficiency video compression</title>
+      <link>/publication/200015/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/200015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power distortion optimization for uncoded linear transformed transmission of images and videos</title>
+      <link>/publication/200010/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/200010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing image compression artifacts by structural sparse representation and quantization constraint prior</title>
+      <link>/publication/200011/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/200011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utility-driven adaptive preprocessing for screen content video compression</title>
+      <link>/publication/200016/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/200016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video compressive sensing reconstruction via reweighted residual sparsity</title>
+      <link>/publication/200012/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/200012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CCR: Clustering and collaborative representation for fast single image super-resolution</title>
+      <link>/publication/200019/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/200019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CONCOLOR: Constrained non-convex low-rank model for image deblocking</title>
+      <link>/publication/200020/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/200020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image denoising via bandwise adaptive modeling and regularization exploiting nonlocal similarity</title>
+      <link>/publication/200014/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/200014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlocal in-loop filter: The way toward next-generation video coding?</title>
+      <link>/publication/200018/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/200018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group-based sparse representation for image restoration</title>
+      <link>/publication/200021/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/200021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image compressive sensing recovery using adaptively learned sparsifying basis via L0 minimization</title>
+      <link>/publication/200023/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/200023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image restoration using joint statistical modeling in a space-transform domain</title>
+      <link>/publication/200022/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/200022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Texture aided depth frame interpolation</title>
+      <link>/publication/200024/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/200024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image compressive sensing recovery via collaborative sparsity</title>
+      <link>/publication/200025/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/200025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpolation-dependent image downsampling</title>
+      <link>/publication/200026/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/200026/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
