@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ronggang Wang | VILLA</title>
+    <link>/people/ronggang-wang/</link>
+      <atom:link href="/people/ronggang-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ronggang Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2020` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
+      <title>Ronggang Wang</title>
+      <link>/people/ronggang-wang/</link>
+    </image>
+    
+    <item>
+      <title>CREAM: CNN-REgularized ADMM Framework for Compressive-Sensed Image Reconstruction</title>
+      <link>/publication/200004/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/200004/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

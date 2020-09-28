@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiqi Wang | VILLA</title>
+    <link>/people/shiqi-wang/</link>
+      <atom:link href="/people/shiqi-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shiqi Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2020` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
+      <title>Shiqi Wang</title>
+      <link>/people/shiqi-wang/</link>
+    </image>
+    
+    <item>
+      <title>Divisively Normalized Sparse Coding: Toward Perceptual Visual Signal Representation</title>
+      <link>/publication/200003/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/200003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globally Variance-Constrained Sparse Representation and Its Application in Image Set Coding</title>
+      <link>/publication/200007/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/200007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Decision Based Block Partitioning for Future Video Coding</title>
+      <link>/publication/200005/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/200005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Progressive Motion Vector Resolution Selection Based on Rate-Distortion Optimization</title>
+      <link>/publication/200013/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/200013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective Quadtree Plus Binary Tree Block Partition Decision for Future Video Coding</title>
+      <link>/publication/100004/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/100004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropy of Primitive: From Sparse Representation to Visual Information Evaluation</title>
+      <link>/publication/200017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/200017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globally Variance-Constrained Sparse Representation for Rate-Distortion Optimized Image Representation</title>
+      <link>/publication/100005/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/100005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Rank-Based Nonlocal Adaptive Loop Filter for High-Efficiency Video Compression</title>
+      <link>/publication/200015/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/200015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utility-Driven Adaptive Preprocessing for Screen Content Video Compression</title>
+      <link>/publication/200016/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/200016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlocal In-Loop Filter: The Way Toward Next-Generation Video Coding?</title>
+      <link>/publication/200018/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/200018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

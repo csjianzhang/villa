@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ming-Hsuan Yang | VILLA</title>
+    <link>/people/ming-hsuan-yang/</link>
+      <atom:link href="/people/ming-hsuan-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ming-Hsuan Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2020` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
+      <title>Ming-Hsuan Yang</title>
+      <link>/people/ming-hsuan-yang/</link>
+    </image>
+    
+    <item>
+      <title>Structure-aware Local Sparse Coding for Visual Tracking</title>
+      <link>/publication/200006/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/200006/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
