@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FengJiang | VILLA</title>
+    <link>/people/fengjiang/</link>
+      <atom:link href="/people/fengjiang/index.xml" rel="self" type="application/rss+xml" />
+    <description>FengJiang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2021` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
+      <title>FengJiang</title>
+      <link>/people/fengjiang/</link>
+    </image>
+    
+    <item>
+      <title>Spatially Directional Predictive Coding for Block-based Compressive Sensing of Natural Images</title>
+      <link>/publication/100019/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/100019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural Group Sparse Representation for Image Compressive Sensing Recovery</title>
+      <link>/publication/100021/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/100021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Quality Image Interpolation via Local Autoregressive and Nonlocal 3-D Sparse Regularization</title>
+      <link>/publication/100028/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/100028/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

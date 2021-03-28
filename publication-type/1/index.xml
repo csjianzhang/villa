@@ -5,12 +5,68 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2021` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Mon, 22 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2021` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Sun, 28 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
       <title>1</title>
       <link>/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Graph Attention Neural Network for Image Restoration</title>
+      <link>/publication/100040/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/100040/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial-temporal Synergic Prior Driven Unfolding Network for Snapshot Compressive Imaging</title>
+      <link>/publication/100041/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/100041/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synergic Feature Attention for Image Restoration</title>
+      <link>/publication/100039/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/100039/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invertible Resampling-Based Layered Image Compression</title>
+      <link>/publication/100034/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/100034/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISTA-Net&#43;&#43;: Flexible Deep Unfolding Network for Compressive Sensing</title>
+      <link>/publication/100033/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/100033/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spk2ImgNet:Learning to Reconstruct Dynamic Scene from Continuous Spike Stream</title>
+      <link>/publication/100037/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/100037/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thousand to One: Semantic Prior Modeling for Conceptual Coding</title>
+      <link>/publication/100036/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/100036/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Matching on Sets: Conquer Occluded Person Re-Identification Without Alignment</title>
@@ -21,10 +77,26 @@
     </item>
     
     <item>
+      <title>Attention Based Dual Branches Fingertip Detection Network and Virtual Key System</title>
+      <link>/publication/100038/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/100038/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Similarity Inference Metric for RGB-Infrared Cross-Modality Person Re-identification</title>
       <link>/publication/100001/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/100001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Layered conceptual image compression via deep semantic synthesis</title>
+      <link>/publication/100035/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/100035/</guid>
       <description></description>
     </item>
     

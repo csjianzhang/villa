@@ -5,12 +5,20 @@
     <link>/people/di-you/</link>
       <atom:link href="/people/di-you/index.xml" rel="self" type="application/rss+xml" />
     <description>Di You</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2021` VILLA · Peking University | Powered by Wowchemy</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2021` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
       <title>Di You</title>
       <link>/people/di-you/</link>
     </image>
+    
+    <item>
+      <title>ISTA-Net&#43;&#43;: Flexible Deep Unfolding Network for Compressive Sensing</title>
+      <link>/publication/100033/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/100033/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

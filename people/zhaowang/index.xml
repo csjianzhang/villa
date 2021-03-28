@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZhaoWang | VILLA</title>
+    <link>/people/zhaowang/</link>
+      <atom:link href="/people/zhaowang/index.xml" rel="self" type="application/rss+xml" />
+    <description>ZhaoWang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2021` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
+      <title>ZhaoWang</title>
+      <link>/people/zhaowang/</link>
+    </image>
+    
+    <item>
+      <title>Probabilistic Decision Based Block Partitioning for Future Video Coding</title>
+      <link>/publication/200005/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/200005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Progressive Motion Vector Resolution Selection Based on Rate-Distortion Optimization</title>
+      <link>/publication/200013/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/200013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective Quadtree Plus Binary Tree Block Partition Decision for Future Video Coding</title>
+      <link>/publication/100004/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/100004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Motion Vector Resolution Scheme for Enhanced Video Coding</title>
+      <link>/publication/100009/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/100009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

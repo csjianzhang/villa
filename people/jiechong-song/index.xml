@@ -5,12 +5,20 @@
     <link>/people/jiechong-song/</link>
       <atom:link href="/people/jiechong-song/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiechong Song</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2021` VILLA · Peking University | Powered by Wowchemy</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2021` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Sun, 28 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
       <title>Jiechong Song</title>
       <link>/people/jiechong-song/</link>
     </image>
+    
+    <item>
+      <title>Spatial-temporal Synergic Prior Driven Unfolding Network for Snapshot Compressive Imaging</title>
+      <link>/publication/100041/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/100041/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XinZhang | VILLA</title>
+    <link>/people/xinzhang/</link>
+      <atom:link href="/people/xinzhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>XinZhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2021` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Sat, 28 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
+      <title>XinZhang</title>
+      <link>/people/xinzhang/</link>
+    </image>
+    
+    <item>
+      <title>Attention Based Dual Branches Fingertip Detection Network and Virtual Key System</title>
+      <link>/publication/100038/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/100038/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YisenWang | VILLA</title>
+    <link>/people/yisenwang/</link>
+      <atom:link href="/people/yisenwang/index.xml" rel="self" type="application/rss+xml" />
+    <description>YisenWang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2021` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
+      <title>YisenWang</title>
+      <link>/people/yisenwang/</link>
+    </image>
+    
+    <item>
+      <title>Collaborative Representation Cascade for Single-Image Super-Resolution</title>
+      <link>/publication/200009/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/200009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

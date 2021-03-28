@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RuiqinXiong | VILLA</title>
+    <link>/people/ruiqinxiong/</link>
+      <atom:link href="/people/ruiqinxiong/index.xml" rel="self" type="application/rss+xml" />
+    <description>RuiqinXiong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2021` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
+      <title>RuiqinXiong</title>
+      <link>/people/ruiqinxiong/</link>
+    </image>
+    
+    <item>
+      <title>Spk2ImgNet:Learning to Reconstruct Dynamic Scene from Continuous Spike Stream</title>
+      <link>/publication/100037/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/100037/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Rank-Based Nonlocal Adaptive Loop Filter for High-Efficiency Video Compression</title>
+      <link>/publication/200015/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/200015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Distortion Optimization for Uncoded Linear Transformed Transmission of Images and Videos</title>
+      <link>/publication/200010/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/200010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Compressive Sensing Reconstruction Via Reweighted Residual Sparsity</title>
+      <link>/publication/200012/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/200012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CONCOLOR: Constrained Non-Convex Low-Rank Model for Image Deblocking</title>
+      <link>/publication/200020/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/200020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Denoising via Bandwise Adaptive Modeling and Regularization Exploiting Nonlocal Similarity</title>
+      <link>/publication/200014/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/200014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Dual Structured-Sparsity Model for Compressive-Sensed Video Reconstruction</title>
+      <link>/publication/100010/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/100010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Denoising via Adaptive Soft-Thresholding Based on Non-Local Samples</title>
+      <link>/publication/100016/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/100016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Quality Image Reconstruction via Non-Local Collaborative Estimation for Wireless Image/Video Softcast</title>
+      <link>/publication/100018/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/100018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Restoration Using Joint Statistical Modeling in a Space-Transform Domain</title>
+      <link>/publication/200022/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/200022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Total Variation based Image Compressive Sensing Recovery by Nonlocal Regularization</title>
+      <link>/publication/100022/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/100022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compressed Sensing Recovery via Collaborative Sparsity</title>
+      <link>/publication/100024/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/100024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Image Local and Nonlocal Consistency for Mixed Gaussian-Impulse Noise Removal</title>
+      <link>/publication/100026/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/100026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Compressive Sensing Recovery via Collaborative Sparsity</title>
+      <link>/publication/200025/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/200025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Primitive Coding and Visual Quality Assessment</title>
+      <link>/publication/100027/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/100027/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Super-Resolution via Dual-Dictionary Learning and Sparse Representation</title>
+      <link>/publication/100025/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/100025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Quality Image Restoration from Partial Random Samples in Spatial Domain</title>
+      <link>/publication/100029/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/100029/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpolation-Dependent Image Downsampling</title>
+      <link>/publication/200026/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/200026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Bit-rate Image Coding via Interpolation Oriented Adaptive Down-sampling</title>
+      <link>/publication/100030/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/100030/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

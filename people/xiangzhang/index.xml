@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XiangZhang | VILLA</title>
+    <link>/people/xiangzhang/</link>
+      <atom:link href="/people/xiangzhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>XiangZhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2021` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
+      <title>XiangZhang</title>
+      <link>/people/xiangzhang/</link>
+    </image>
+    
+    <item>
+      <title>Divisively Normalized Sparse Coding: Toward Perceptual Visual Signal Representation</title>
+      <link>/publication/200003/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/200003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globally Variance-Constrained Sparse Representation and Its Application in Image Set Coding</title>
+      <link>/publication/200007/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/200007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropy of Primitive: From Sparse Representation to Visual Information Evaluation</title>
+      <link>/publication/200017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/200017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globally Variance-Constrained Sparse Representation for Rate-Distortion Optimized Image Representation</title>
+      <link>/publication/100005/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/100005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

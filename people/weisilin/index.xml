@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WeisiLin | VILLA</title>
+    <link>/people/weisilin/</link>
+      <atom:link href="/people/weisilin/index.xml" rel="self" type="application/rss+xml" />
+    <description>WeisiLin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2021` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
+      <title>WeisiLin</title>
+      <link>/people/weisilin/</link>
+    </image>
+    
+    <item>
+      <title>Low-Rank-Based Nonlocal Adaptive Loop Filter for High-Efficiency Video Compression</title>
+      <link>/publication/200015/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/200015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

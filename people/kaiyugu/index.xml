@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KaiyuGu | VILLA</title>
+    <link>/people/kaiyugu/</link>
+      <atom:link href="/people/kaiyugu/index.xml" rel="self" type="application/rss+xml" />
+    <description>KaiyuGu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2021` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
+      <title>KaiyuGu</title>
+      <link>/people/kaiyugu/</link>
+    </image>
+    
+    <item>
+      <title>Image Super-Resolution based on Dictionary Learning and Anchored Neighborhood Regression with Mutual Incoherence</title>
+      <link>/publication/100014/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/100014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
