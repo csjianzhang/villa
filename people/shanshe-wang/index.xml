@@ -5,12 +5,20 @@
     <link>/people/shanshe-wang/</link>
       <atom:link href="/people/shanshe-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Shanshe Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2021` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2021` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Wed, 27 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
       <title>Shanshe Wang</title>
       <link>/people/shanshe-wang/</link>
     </image>
+    
+    <item>
+      <title>Layered conceptual image compression via deep semantic synthesis</title>
+      <link>/publication/100035/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/100035/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Probabilistic Decision Based Block Partitioning for Future Video Coding</title>
