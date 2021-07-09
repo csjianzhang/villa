@@ -5,12 +5,20 @@
     <link>/people/zihong-huang/</link>
       <atom:link href="/people/zihong-huang/index.xml" rel="self" type="application/rss+xml" />
     <description>Zihong Huang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2021` VILLA · Peking University | Powered by Wowchemy</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2021` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
       <title>Zihong Huang</title>
       <link>/people/zihong-huang/</link>
     </image>
+    
+    <item>
+      <title>Dynamic Multi-Domain Translation Network For Single Image Deraining</title>
+      <link>/publication/100042/</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/100042/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
