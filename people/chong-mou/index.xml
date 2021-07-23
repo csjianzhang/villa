@@ -5,12 +5,28 @@
     <link>/people/chong-mou/</link>
       <atom:link href="/people/chong-mou/index.xml" rel="self" type="application/rss+xml" />
     <description>Chong Mou</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2021` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Sun, 28 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2021` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Fri, 23 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
       <title>Chong Mou</title>
       <link>/people/chong-mou/</link>
     </image>
+    
+    <item>
+      <title>Dense Deep Unfolding Network with 3D-CNN Prior for Snapshot Compressive Sensing</title>
+      <link>/publication/100046/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/100046/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Attentive Graph Learning for Image Restoration</title>
+      <link>/publication/100045/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/100045/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Graph Attention Neural Network for Image Restoration</title>
