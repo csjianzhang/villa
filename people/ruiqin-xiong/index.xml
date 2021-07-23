@@ -5,12 +5,20 @@
     <link>/people/ruiqin-xiong/</link>
       <atom:link href="/people/ruiqin-xiong/index.xml" rel="self" type="application/rss+xml" />
     <description>Ruiqin Xiong</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2021` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2021` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Fri, 23 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
       <title>Ruiqin Xiong</title>
       <link>/people/ruiqin-xiong/</link>
     </image>
+    
+    <item>
+      <title>Super Resolve Dynamic Scene from Continuous Spike Streams</title>
+      <link>/publication/100047/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/100047/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CAS: Correlation Adaptive Sparse Modeling for Image Denoising</title>
