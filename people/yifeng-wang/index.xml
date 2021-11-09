@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xiangyang Ji | VILLA</title>
-    <link>/people/xiangyang-ji/</link>
-      <atom:link href="/people/xiangyang-ji/index.xml" rel="self" type="application/rss+xml" />
-    <description>Xiangyang Ji</description>
+    <title>Yifeng Wang | VILLA</title>
+    <link>/people/yifeng-wang/</link>
+      <atom:link href="/people/yifeng-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yifeng Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2021` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Tue, 09 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
-      <title>Xiangyang Ji</title>
-      <link>/people/xiangyang-ji/</link>
+      <title>Yifeng Wang</title>
+      <link>/people/yifeng-wang/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/100048/</link>
       <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
       <guid>/publication/100048/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Collaborative Representation Cascade for Single-Image Super-Resolution</title>
-      <link>/publication/200009/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/200009/</guid>
       <description></description>
     </item>
     
