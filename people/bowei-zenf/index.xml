@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yang Chen | VILLA</title>
-    <link>/people/yang-chen/</link>
-      <atom:link href="/people/yang-chen/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yang Chen</description>
+    <title>Bowei Zenf | VILLA</title>
+    <link>/people/bowei-zenf/</link>
+      <atom:link href="/people/bowei-zenf/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bowei Zenf</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2021` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
-      <title>Yang Chen</title>
-      <link>/people/yang-chen/</link>
+      <title>Bowei Zenf</title>
+      <link>/people/bowei-zenf/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/100050/</link>
       <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
       <guid>/publication/100050/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classification</title>
-      <link>/publication/100048/</link>
-      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/100048/</guid>
       <description></description>
     </item>
     
