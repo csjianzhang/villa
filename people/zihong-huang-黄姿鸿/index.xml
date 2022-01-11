@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zihong Huang (黄姿鸿) | VILLA</title>
+    <link>/people/zihong-huang-%E9%BB%84%E5%A7%BF%E9%B8%BF/</link>
+      <atom:link href="/people/zihong-huang-%E9%BB%84%E5%A7%BF%E9%B8%BF/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zihong Huang (黄姿鸿)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2022` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
+      <title>Zihong Huang (黄姿鸿)</title>
+      <link>/people/zihong-huang-%E9%BB%84%E5%A7%BF%E9%B8%BF/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic Multi-Domain Translation Network For Single Image Deraining</title>
+      <link>/publication/100042/</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/100042/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

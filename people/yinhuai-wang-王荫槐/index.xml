@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yinhuai Wang (王荫槐) | VILLA</title>
+    <link>/people/yinhuai-wang-%E7%8E%8B%E8%8D%AB%E6%A7%90/</link>
+      <atom:link href="/people/yinhuai-wang-%E7%8E%8B%E8%8D%AB%E6%A7%90/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yinhuai Wang (王荫槐)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2022` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
+      <title>Yinhuai Wang (王荫槐)</title>
+      <link>/people/yinhuai-wang-%E7%8E%8B%E8%8D%AB%E6%A7%90/</link>
+    </image>
+    
+    <item>
+      <title>Panini-Net: GAN Prior based Degradation-Aware Feature Interpolation for Face Restoration</title>
+      <link>/publication/100049/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/100049/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
