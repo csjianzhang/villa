@@ -227,22 +227,7 @@
   </url>
   
   <url>
-    <loc>/publication/</loc>
-    <lastmod>2022-01-01T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/100049/</loc>
-    <lastmod>2022-01-01T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/people/rui-zhao/</loc>
-    <lastmod>2022-01-01T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/people/tiejun-huang/</loc>
     <lastmod>2022-01-01T00:00:00+08:00</lastmod>
   </url>
   
@@ -253,11 +238,6 @@
   
   <url>
     <loc>/people/xiangyang-ji/</loc>
-    <lastmod>2022-01-01T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/people/xiaopeng-fan/</loc>
     <lastmod>2022-01-01T00:00:00+08:00</lastmod>
   </url>
   
@@ -278,11 +258,6 @@
   
   <url>
     <loc>/people/zijie-fang/</loc>
-    <lastmod>2022-01-01T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/people/ziluo-ding/</loc>
     <lastmod>2022-01-01T00:00:00+08:00</lastmod>
   </url>
   
@@ -323,6 +298,11 @@
   
   <url>
     <loc>/publication/100047/</loc>
+    <lastmod>2021-07-23T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/tiejun-huang/</loc>
     <lastmod>2021-07-23T00:00:00+08:00</lastmod>
   </url>
   
@@ -423,6 +403,11 @@
   
   <url>
     <loc>/people/ronggang-wang/</loc>
+    <lastmod>2021-03-02T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/xiaopeng-fan/</loc>
     <lastmod>2021-03-02T00:00:00+08:00</lastmod>
   </url>
   
