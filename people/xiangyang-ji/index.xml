@@ -5,12 +5,20 @@
     <link>/people/xiangyang-ji/</link>
       <atom:link href="/people/xiangyang-ji/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiangyang Ji</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2022` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2022` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Thu, 28 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
       <title>Xiangyang Ji</title>
       <link>/people/xiangyang-ji/</link>
     </image>
+    
+    <item>
+      <title>PUERT: Probabilistic Under-sampling and Explicable Reconstruction Network for CS-MRI</title>
+      <link>/publication/200034/</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/200034/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Unpaired Multi-Domain Stain Transfer for Kidney Histopathological Images</title>
