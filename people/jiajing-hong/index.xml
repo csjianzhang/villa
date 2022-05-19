@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yuesheng Zhu | VILLA</title>
-    <link>/people/yuesheng-zhu/</link>
-      <atom:link href="/people/yuesheng-zhu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yuesheng Zhu</description>
+    <title>Jiajing Hong | VILLA</title>
+    <link>/people/jiajing-hong/</link>
+      <atom:link href="/people/jiajing-hong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiajing Hong</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2022` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Thu, 19 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
-      <title>Yuesheng Zhu</title>
-      <link>/people/yuesheng-zhu/</link>
+      <title>Jiajing Hong</title>
+      <link>/people/jiajing-hong/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/200036/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
       <guid>/publication/200036/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Novel Two-stage Separable Deep Learning Framework for Practical Blind Watermarking</title>
-      <link>/publication/100002/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/100002/</guid>
       <description></description>
     </item>
     
