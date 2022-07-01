@@ -5,12 +5,36 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>VILLA</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2022` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2022` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
       <title>VILLA</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Consistency-Contrast Learning for Conceptual Coding</title>
+      <link>/publication/100056/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/100056/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More is better: Multi-source Dynamic Parsing Attention for Occluded Person Re-identification</title>
+      <link>/publication/100055/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/100055/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Instance Learning with Mixed Supervision in Gleason Grading</title>
+      <link>/publication/100057/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/100057/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Semantic Neural Rendering-based Video Coding: Towards Ultra-Low Bitrate Video Conferencing</title>

@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types | VILLA</title>
-    <link>/publication_types/</link>
-      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publication_types</description>
+    <title>Jiguo Li | VILLA</title>
+    <link>/people/jiguo-li/</link>
+      <atom:link href="/people/jiguo-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiguo Li</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2022` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
-      <title>Publication_types</title>
-      <link>/publication_types/</link>
+      <title>Jiguo Li</title>
+      <link>/people/jiguo-li/</link>
     </image>
+    
+    <item>
+      <title>Consistency-Contrast Learning for Conceptual Coding</title>
+      <link>/publication/100056/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/100056/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
