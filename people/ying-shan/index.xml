@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ying Shan | VILLA</title>
+    <link>/people/ying-shan/</link>
+      <atom:link href="/people/ying-shan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ying Shan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2022` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Mon, 04 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
+      <title>Ying Shan</title>
+      <link>/people/ying-shan/</link>
+    </image>
+    
+    <item>
+      <title>Metric Learning based Interactive Modulation for Real-World Super-Resolution</title>
+      <link>/publication/100059/</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/100059/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
