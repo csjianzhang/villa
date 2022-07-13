@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types | VILLA</title>
-    <link>/publication_types/</link>
-      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publication_types</description>
+    <title>Qi Jia | VILLA</title>
+    <link>/people/qi-jia/</link>
+      <atom:link href="/people/qi-jia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qi Jia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2022` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Wed, 13 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
-      <title>Publication_types</title>
-      <link>/publication_types/</link>
+      <title>Qi Jia</title>
+      <link>/people/qi-jia/</link>
     </image>
+    
+    <item>
+      <title>Hierarchical Similarity Learning for Aliasing Suppression Image Super-Resolution</title>
+      <link>/publication/200039/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/200039/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
