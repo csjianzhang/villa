@@ -5,12 +5,20 @@
     <link>/people/jian-zhang-%E5%BC%A0%E5%81%A5/</link>
       <atom:link href="/people/jian-zhang-%E5%BC%A0%E5%81%A5/index.xml" rel="self" type="application/rss+xml" />
     <description>Jian Zhang (张健)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2022` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Wed, 13 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2022` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
       <title>Jian Zhang (张健)</title>
       <link>/people/jian-zhang-%E5%BC%A0%E5%81%A5/</link>
     </image>
+    
+    <item>
+      <title>TransCL: Transformer Makes Strong and Flexible Compressive Learning</title>
+      <link>/publication/200040/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/200040/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Content-aware Scalable Deep Compressed Sensing</title>
