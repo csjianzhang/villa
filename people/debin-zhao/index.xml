@@ -13,14 +13,6 @@
     </image>
     
     <item>
-      <title>A Visual Comfort Assessment Metric for Stereoscopic Images</title>
-      <link>/publication/100013/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/100013/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Block-Based Compressive Sensing Coding of Natural Images by Local Structural Measurement Matrix</title>
       <link>/publication/100017/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
@@ -61,14 +53,6 @@
     </item>
     
     <item>
-      <title>Spatially Directional Predictive Coding for Block-based Compressive Sensing of Natural Images</title>
-      <link>/publication/100019/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/100019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Structural Group Sparse Representation for Image Compressive Sensing Recovery</title>
       <link>/publication/100021/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
@@ -89,14 +73,6 @@
       <link>/publication/100026/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>/publication/100026/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>High-Quality Image Interpolation via Local Autoregressive and Nonlocal 3-D Sparse Regularization</title>
-      <link>/publication/100028/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/100028/</guid>
       <description></description>
     </item>
     
@@ -137,22 +113,6 @@
       <link>/publication/200026/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>/publication/200026/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Low Bit-rate Image Coding via Interpolation Oriented Adaptive Down-sampling</title>
-      <link>/publication/100030/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/100030/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fast and Effective Interpolation Using Median Filter</title>
-      <link>/publication/100031/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/100031/</guid>
       <description></description>
     </item>
     

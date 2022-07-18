@@ -53,14 +53,6 @@
     </item>
     
     <item>
-      <title>CREAM: CNN-REgularized ADMM Framework for Compressive-Sensed Image Reconstruction</title>
-      <link>/publication/200004/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/200004/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Globally Variance-Constrained Sparse Representation and Its Application in Image Set Coding</title>
       <link>/publication/200007/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -173,22 +165,6 @@
     </item>
     
     <item>
-      <title>A Dual Structured-Sparsity Model for Compressive-Sensed Video Reconstruction</title>
-      <link>/publication/100010/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/100010/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Image Deblocking Using Group-based Sparse Representation and Quantization Constraint Prior</title>
-      <link>/publication/100012/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/100012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Image Denoising via Adaptive Soft-Thresholding Based on Non-Local Samples</title>
       <link>/publication/100016/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
@@ -201,14 +177,6 @@
       <link>/publication/200021/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>/publication/200021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>High Quality Image Reconstruction via Non-Local Collaborative Estimation for Wireless Image/Video Softcast</title>
-      <link>/publication/100018/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/100018/</guid>
       <description></description>
     </item>
     
@@ -229,26 +197,10 @@
     </item>
     
     <item>
-      <title>A Highly Effective Error Concealment Method for Whole Frame Loss</title>
-      <link>/publication/100023/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/100023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Structural Group Sparse Representation for Image Compressive Sensing Recovery</title>
       <link>/publication/100021/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>/publication/100021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wavelet Inpainting Driven Image Compression via Collaborative Sparsity at Low Bit Rates</title>
-      <link>/publication/100020/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/100020/</guid>
       <description></description>
     </item>
     

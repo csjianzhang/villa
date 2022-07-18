@@ -229,22 +229,6 @@
     </item>
     
     <item>
-      <title>A Dual Structured-Sparsity Model for Compressive-Sensed Video Reconstruction</title>
-      <link>/publication/100010/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/100010/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Image Deblocking Using Group-based Sparse Representation and Quantization Constraint Prior</title>
-      <link>/publication/100012/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/100012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Image Restoration Using Joint Statistical Modeling in a Space-Transform Domain</title>
       <link>/publication/200022/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
@@ -253,26 +237,10 @@
     </item>
     
     <item>
-      <title>A Highly Effective Error Concealment Method for Whole Frame Loss</title>
-      <link>/publication/100023/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/100023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Improved Total Variation based Image Compressive Sensing Recovery by Nonlocal Regularization</title>
       <link>/publication/100022/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>/publication/100022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wavelet Inpainting Driven Image Compression via Collaborative Sparsity at Low Bit Rates</title>
-      <link>/publication/100020/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/100020/</guid>
       <description></description>
     </item>
     
@@ -289,14 +257,6 @@
       <link>/publication/100026/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>/publication/100026/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>High-Quality Image Interpolation via Local Autoregressive and Nonlocal 3-D Sparse Regularization</title>
-      <link>/publication/100028/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/100028/</guid>
       <description></description>
     </item>
     
@@ -329,22 +289,6 @@
       <link>/publication/100029/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>/publication/100029/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Low Bit-rate Image Coding via Interpolation Oriented Adaptive Down-sampling</title>
-      <link>/publication/100030/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/100030/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fast and Effective Interpolation Using Median Filter</title>
-      <link>/publication/100031/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/100031/</guid>
       <description></description>
     </item>
     

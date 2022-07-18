@@ -373,14 +373,6 @@
     </item>
     
     <item>
-      <title>CREAM: CNN-REgularized ADMM Framework for Compressive-Sensed Image Reconstruction</title>
-      <link>/publication/200004/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/200004/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Globally Variance-Constrained Sparse Representation and Its Application in Image Set Coding</title>
       <link>/publication/200007/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -557,22 +549,6 @@
     </item>
     
     <item>
-      <title>A Dual Structured-Sparsity Model for Compressive-Sensed Video Reconstruction</title>
-      <link>/publication/100010/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/100010/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Visual Comfort Assessment Metric for Stereoscopic Images</title>
-      <link>/publication/100013/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/100013/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Adaptive Local Nonparametric Regression for Fast Single Image Super-Resolution</title>
       <link>/publication/100011/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
@@ -589,14 +565,6 @@
     </item>
     
     <item>
-      <title>Image Deblocking Using Group-based Sparse Representation and Quantization Constraint Prior</title>
-      <link>/publication/100012/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/100012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Image Denoising via Adaptive Soft-Thresholding Based on Non-Local Samples</title>
       <link>/publication/100016/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
@@ -605,34 +573,10 @@
     </item>
     
     <item>
-      <title>Image Super-Resolution based on Dictionary Learning and Anchored Neighborhood Regression with Mutual Incoherence</title>
-      <link>/publication/100014/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/100014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Single Image Super-Resolution via Iterative Collaborative Representation</title>
-      <link>/publication/100015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/100015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Group-Based Sparse Representation for Image Restoration</title>
       <link>/publication/200021/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>/publication/200021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>High Quality Image Reconstruction via Non-Local Collaborative Estimation for Wireless Image/Video Softcast</title>
-      <link>/publication/100018/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/100018/</guid>
       <description></description>
     </item>
     
@@ -653,22 +597,6 @@
     </item>
     
     <item>
-      <title>Texture Aided Depth Frame Interpolation</title>
-      <link>/publication/200024/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/200024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Highly Effective Error Concealment Method for Whole Frame Loss</title>
-      <link>/publication/100023/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/100023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Improved Total Variation based Image Compressive Sensing Recovery by Nonlocal Regularization</title>
       <link>/publication/100022/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
@@ -677,26 +605,10 @@
     </item>
     
     <item>
-      <title>Spatially Directional Predictive Coding for Block-based Compressive Sensing of Natural Images</title>
-      <link>/publication/100019/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/100019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Structural Group Sparse Representation for Image Compressive Sensing Recovery</title>
       <link>/publication/100021/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>/publication/100021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wavelet Inpainting Driven Image Compression via Collaborative Sparsity at Low Bit Rates</title>
-      <link>/publication/100020/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/100020/</guid>
       <description></description>
     </item>
     
@@ -713,14 +625,6 @@
       <link>/publication/100026/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>/publication/100026/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>High-Quality Image Interpolation via Local Autoregressive and Nonlocal 3-D Sparse Regularization</title>
-      <link>/publication/100028/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/100028/</guid>
       <description></description>
     </item>
     
@@ -761,22 +665,6 @@
       <link>/publication/200026/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>/publication/200026/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Low Bit-rate Image Coding via Interpolation Oriented Adaptive Down-sampling</title>
-      <link>/publication/100030/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/100030/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fast and Effective Interpolation Using Median Filter</title>
-      <link>/publication/100031/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/100031/</guid>
       <description></description>
     </item>
     

@@ -29,14 +29,6 @@
     </item>
     
     <item>
-      <title>CREAM: CNN-REgularized ADMM Framework for Compressive-Sensed Image Reconstruction</title>
-      <link>/publication/200004/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/200004/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Reducing Image Compression Artifacts by Structural Sparse Representation and Quantization Constraint Prior</title>
       <link>/publication/200011/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -77,34 +69,10 @@
     </item>
     
     <item>
-      <title>A Dual Structured-Sparsity Model for Compressive-Sensed Video Reconstruction</title>
-      <link>/publication/100010/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/100010/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Image Compressive Sensing Recovery Using Adaptively Learned Sparsifying Basis via L0 Minimization</title>
       <link>/publication/200023/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>/publication/200023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Highly Effective Error Concealment Method for Whole Frame Loss</title>
-      <link>/publication/100023/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/100023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wavelet Inpainting Driven Image Compression via Collaborative Sparsity at Low Bit Rates</title>
-      <link>/publication/100020/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/100020/</guid>
       <description></description>
     </item>
     
