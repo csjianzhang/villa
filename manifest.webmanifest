@@ -1,0 +1,18 @@
+{
+  "name": "VILLA",
+  "short_name": "VILLA",
+  "lang": "en-us",
+  "theme_color": "#3f51b5",
+  "background_color": "#3f51b5",
+  "icons": [{
+    "src": "/images/icon_hu1c69c5c7f1761a6e16ae9a9b731ec3dc_270566_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu1c69c5c7f1761a6e16ae9a9b731ec3dc_270566_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
