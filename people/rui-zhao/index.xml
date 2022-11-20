@@ -5,18 +5,18 @@
     <link>/people/rui-zhao/</link>
       <atom:link href="/people/rui-zhao/index.xml" rel="self" type="application/rss+xml" />
     <description>Rui Zhao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2022` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2022` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Sun, 20 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_3.png</url>
       <title>Rui Zhao</title>
       <link>/people/rui-zhao/</link>
     </image>
     
     <item>
-      <title>MRDFlow: Unsupervised Optical Flow Estimation Network With Multi-Scale Recurrent Decoder</title>
-      <link>/publication/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/</guid>
+      <title>Learning to Super-Resolve Dynamic Scenes for Neuromorphic Spike Camera</title>
+      <link>/publication/100061/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/100061/</guid>
       <description></description>
     </item>
     
