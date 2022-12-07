@@ -5,12 +5,20 @@
     <link>/people/haoqian-wang/</link>
       <atom:link href="/people/haoqian-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Haoqian Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2021` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2022` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
       <title>Haoqian Wang</title>
       <link>/people/haoqian-wang/</link>
     </image>
+    
+    <item>
+      <title>Unpaired Multi-Domain Stain Transfer for Kidney Histopathological Images</title>
+      <link>/publication/100050/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/100050/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adaptive Local Nonparametric Regression for Fast Single Image Super-Resolution</title>
