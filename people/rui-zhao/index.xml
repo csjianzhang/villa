@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rui Zhao | VILLA</title>
+    <link>/people/rui-zhao/</link>
+      <atom:link href="/people/rui-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rui Zhao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2022` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
+      <title>Rui Zhao</title>
+      <link>/people/rui-zhao/</link>
+    </image>
+    
+    <item>
+      <title>MRDFlow: Unsupervised Optical Flow Estimation Network With Multi-Scale Recurrent Decoder</title>
+      <link>/publication/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
