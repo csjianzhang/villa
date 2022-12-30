@@ -5,12 +5,20 @@
     <link>/people/shijian-lu/</link>
       <atom:link href="/people/shijian-lu/index.xml" rel="self" type="application/rss+xml" />
     <description>Shijian Lu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2022` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Mon, 22 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2022` VILLA · Peking University | Powered by Wowchemy</copyright><lastBuildDate>Sun, 02 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
       <title>Shijian Lu</title>
       <link>/people/shijian-lu/</link>
     </image>
+    
+    <item>
+      <title>Learning Disentangled Representation Implicitly via Transformer for Occluded Person Re-Identification</title>
+      <link>/publication/200032/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/200032/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Matching on Sets: Conquer Occluded Person Re-Identification Without Alignment</title>
