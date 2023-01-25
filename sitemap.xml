@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/people/jian-zhang-%E5%BC%A0%E5%81%A5/</loc>
-    <lastmod>2023-01-02T00:00:00+08:00</lastmod>
+    <lastmod>2023-01-25T00:00:00+08:00</lastmod>
   </url><url>
     <loc>/people/jz/</loc>
   </url><url>
     <loc>/people/jiechong-song-%E5%AE%8B%E7%9A%86%E5%85%85/</loc>
-    <lastmod>2021-07-09T00:00:00+08:00</lastmod>
+    <lastmod>2023-01-25T00:00:00+08:00</lastmod>
   </url><url>
     <loc>/people/yujie-hu-%E8%83%A1%E5%A6%A4%E5%A9%95/</loc>
     <lastmod>2023-01-02T00:00:00+08:00</lastmod>
@@ -36,13 +36,13 @@
     <lastmod>2022-07-01T00:00:00+08:00</lastmod>
   </url><url>
     <loc>/people/bin-chen-%E9%99%88%E6%96%8C/</loc>
-    <lastmod>2023-01-01T00:00:00+08:00</lastmod>
+    <lastmod>2023-01-25T00:00:00+08:00</lastmod>
   </url><url>
     <loc>/people/jiwen-yu-%E4%BD%99%E6%B5%8E%E9%97%BB/</loc>
-    <lastmod>2023-01-02T00:00:00+08:00</lastmod>
+    <lastmod>2023-01-25T00:00:00+08:00</lastmod>
   </url><url>
     <loc>/people/yinhuai-wang-%E7%8E%8B%E8%8D%AB%E6%A7%90/</loc>
-    <lastmod>2023-01-02T00:00:00+08:00</lastmod>
+    <lastmod>2023-01-25T00:00:00+08:00</lastmod>
   </url><url>
     <loc>/people/qian-wang-%E7%8E%8B%E8%8C%9C/</loc>
     <lastmod>2022-07-01T00:00:00+08:00</lastmod>
@@ -82,10 +82,28 @@
     <lastmod>2021-06-04T00:00:00+08:00</lastmod>
   </url><url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2023-01-02T00:00:00+08:00</lastmod>
+    <lastmod>2023-01-25T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2023-01-25T00:00:00+08:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2023-01-02T00:00:00+08:00</lastmod>
+    <lastmod>2023-01-25T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>/publication/200043/</loc>
+    <lastmod>2023-01-25T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2023-01-25T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2023-01-25T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-01-25T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>/publication/100064/</loc>
+    <lastmod>2023-01-25T00:00:00+08:00</lastmod>
   </url><url>
     <loc>/publication/100062/</loc>
     <lastmod>2023-01-02T00:00:00+08:00</lastmod>
@@ -108,12 +126,6 @@
     <loc>/publication/100061/</loc>
     <lastmod>2023-01-02T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2023-01-02T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2023-01-02T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>/people/rui-zhao/</loc>
     <lastmod>2023-01-02T00:00:00+08:00</lastmod>
   </url><url>
@@ -121,9 +133,6 @@
     <lastmod>2023-01-02T00:00:00+08:00</lastmod>
   </url><url>
     <loc>/people/tiejun-huang/</loc>
-    <lastmod>2023-01-02T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2023-01-02T00:00:00+08:00</lastmod>
   </url><url>
     <loc>/people/yang-chen/</loc>
@@ -134,9 +143,6 @@
   </url><url>
     <loc>/people/zhuchen-shao/</loc>
     <lastmod>2023-01-02T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2023-01-01T00:00:00+08:00</lastmod>
   </url><url>
     <loc>/publication/100063/</loc>
     <lastmod>2023-01-01T00:00:00+08:00</lastmod>
