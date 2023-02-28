@@ -5,12 +5,20 @@
     <link>/people/siwei-ma/</link>
       <atom:link href="/people/siwei-ma/index.xml" rel="self" type="application/rss+xml" />
     <description>Siwei Ma</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2023` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Wed, 13 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2023` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_3.png</url>
       <title>Siwei Ma</title>
       <link>/people/siwei-ma/</link>
     </image>
+    
+    <item>
+      <title>Optimization-Inspired Cross-Attention Transformer for Compressive Sensing</title>
+      <link>/publication/100068/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/100068/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hierarchical Similarity Learning for Aliasing Suppression Image Super-Resolution</title>
