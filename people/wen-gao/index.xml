@@ -5,12 +5,20 @@
     <link>/people/wen-gao/</link>
       <atom:link href="/people/wen-gao/index.xml" rel="self" type="application/rss+xml" />
     <description>Wen Gao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2023` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Wed, 13 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2023` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Thu, 20 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_3.png</url>
       <title>Wen Gao</title>
       <link>/people/wen-gao/</link>
     </image>
+    
+    <item>
+      <title>Semantic-aware Visual Decomposition for Image Coding</title>
+      <link>/publication/200047/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/200047/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hierarchical Similarity Learning for Aliasing Suppression Image Super-Resolution</title>
