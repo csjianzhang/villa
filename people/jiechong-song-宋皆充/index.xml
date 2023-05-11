@@ -5,12 +5,20 @@
     <link>/people/jiechong-song-%E5%AE%8B%E7%9A%86%E5%85%85/</link>
       <atom:link href="/people/jiechong-song-%E5%AE%8B%E7%9A%86%E5%85%85/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiechong Song (宋皆充)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2023` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2023` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Wed, 10 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_3.png</url>
       <title>Jiechong Song (宋皆充)</title>
       <link>/people/jiechong-song-%E5%AE%8B%E7%9A%86%E5%85%85/</link>
     </image>
+    
+    <item>
+      <title>Deep Physics-Guided Unrolling Generalization for Compressed Sensing ![alt new](/images/new.gif)</title>
+      <link>/publication/200048/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/200048/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dynamic Path-Controllable Deep Unfolding Network for Compressive Sensing</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hanli Wang | VILLA</title>
+    <link>/people/hanli-wang/</link>
+      <atom:link href="/people/hanli-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hanli Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2023` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Sun, 07 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_3.png</url>
+      <title>Hanli Wang</title>
+      <link>/people/hanli-wang/</link>
+    </image>
+    
+    <item>
+      <title>CSformer: Bridging Convolution and Transformer for Compressive Sensing ![alt new](/images/new.gif)</title>
+      <link>/publication/200049/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/200049/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
