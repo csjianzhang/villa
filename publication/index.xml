@@ -5,12 +5,36 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2023` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Wed, 10 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2023` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Fri, 14 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>A Unified Continual Learning Framework with General Parameter-Efficient Tuning</title>
+      <link>/publication/100071/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/100071/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freedom: Training-free energy-guided conditional diffusion model</title>
+      <link>/publication/100070/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/100070/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit Neural Representation for Cooperative Low-light Image Enhancement</title>
+      <link>/publication/100072/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/100072/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep Physics-Guided Unrolling Generalization for Compressed Sensing</title>

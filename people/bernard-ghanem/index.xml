@@ -5,12 +5,28 @@
     <link>/people/bernard-ghanem/</link>
       <atom:link href="/people/bernard-ghanem/index.xml" rel="self" type="application/rss+xml" />
     <description>Bernard Ghanem</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2023` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2023` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Fri, 14 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
       <title>Bernard Ghanem</title>
       <link>/people/bernard-ghanem/</link>
     </image>
+    
+    <item>
+      <title>A Unified Continual Learning Framework with General Parameter-Efficient Tuning</title>
+      <link>/publication/100071/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/100071/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freedom: Training-free energy-guided conditional diffusion model</title>
+      <link>/publication/100070/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/100070/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Large-capacity and Flexible Video Steganography via Invertible Neural Network</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yifan Sun | VILLA</title>
+    <link>/people/yifan-sun/</link>
+      <atom:link href="/people/yifan-sun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yifan Sun</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2023` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Fri, 14 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
+      <title>Yifan Sun</title>
+      <link>/people/yifan-sun/</link>
+    </image>
+    
+    <item>
+      <title>A Unified Continual Learning Framework with General Parameter-Efficient Tuning</title>
+      <link>/publication/100071/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/100071/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
