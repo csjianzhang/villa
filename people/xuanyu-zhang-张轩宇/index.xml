@@ -5,12 +5,20 @@
     <link>/people/xuanyu-zhang-%E5%BC%A0%E8%BD%A9%E5%AE%87/</link>
       <atom:link href="/people/xuanyu-zhang-%E5%BC%A0%E8%BD%A9%E5%AE%87/index.xml" rel="self" type="application/rss+xml" />
     <description>Xuanyu Zhang (张轩宇)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2023` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Sat, 05 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2023` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
       <title>Xuanyu Zhang (张轩宇)</title>
       <link>/people/xuanyu-zhang-%E5%BC%A0%E8%BD%A9%E5%AE%87/</link>
     </image>
+    
+    <item>
+      <title>CRoSS: Diffusion Model Makes Controllable, Robust and Secure Image Steganography</title>
+      <link>/publication/100073/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/100073/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>HerosNet: Hyperspectral Explicable Reconstruction and Optimal Sampling Deep Network for Snapshot Compressive Imaging</title>
