@@ -4,7 +4,7 @@
   
   <url>
     <loc>/people/jian-zhang-%E5%BC%A0%E5%81%A5/</loc>
-    <lastmod>2023-11-01T00:00:00+08:00</lastmod>
+    <lastmod>2024-01-03T00:00:00+08:00</lastmod>
   </url>
   
   <url>
@@ -28,7 +28,7 @@
   
   <url>
     <loc>/people/yanmin-wu-%E5%90%B4%E8%89%B3%E6%95%8F/</loc>
-    <lastmod>2023-07-14T00:00:00+08:00</lastmod>
+    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
   </url>
   
   <url>
@@ -88,12 +88,12 @@
   
   <url>
     <loc>/people/chong-mou-%E7%89%9F%E5%86%B2/</loc>
-    <lastmod>2023-02-28T00:00:00+08:00</lastmod>
+    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>/people/qiankun-gao-%E9%AB%98%E4%B9%BE%E5%9D%A4/</loc>
-    <lastmod>2023-07-14T00:00:00+08:00</lastmod>
+    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
   </url>
   
   <url>
@@ -156,53 +156,153 @@
   </url>
   
   <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2023-11-01T00:00:00+08:00</lastmod>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2024-01-03T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2023-11-01T00:00:00+08:00</lastmod>
+    <lastmod>2024-01-03T00:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/200060/</loc>
-    <lastmod>2023-11-01T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/people/guanan-wang/</loc>
-    <lastmod>2023-11-01T00:00:00+08:00</lastmod>
+    <loc>/publication/100077/</loc>
+    <lastmod>2024-01-03T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2023-11-01T00:00:00+08:00</lastmod>
+    <lastmod>2024-01-03T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2023-11-01T00:00:00+08:00</lastmod>
+    <lastmod>2024-01-03T00:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/people/shaogang-gong/</loc>
-    <lastmod>2023-11-01T00:00:00+08:00</lastmod>
+    <loc>/people/rui-zhao/</loc>
+    <lastmod>2024-01-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/ruiqin-xiong/</loc>
+    <lastmod>2024-01-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/tiejun-huang/</loc>
+    <lastmod>2024-01-03T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2023-11-01T00:00:00+08:00</lastmod>
+    <lastmod>2024-01-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/xinfeng-zhang/</loc>
+    <lastmod>2024-01-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/zhaofei-yu/</loc>
+    <lastmod>2024-01-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/jing-zhao/</loc>
+    <lastmod>2024-01-02T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/100076/</loc>
+    <lastmod>2024-01-02T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/shuyuan-zhu/</loc>
+    <lastmod>2024-01-02T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/xiaopeng-fan/</loc>
+    <lastmod>2024-01-02T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/yanchen-dong/</loc>
+    <lastmod>2024-01-02T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/200060/</loc>
+    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/guanan-wang/</loc>
+    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/100075/</loc>
+    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/liangbin-xie/</loc>
+    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/renrui-zhang/</loc>
+    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/shaogang-gong/</loc>
+    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/100074/</loc>
+    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>/people/wen-gao/</loc>
-    <lastmod>2023-11-01T00:00:00+08:00</lastmod>
+    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/xiaohu-qie/</loc>
+    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>/people/xiaowen-huang/</loc>
-    <lastmod>2023-11-01T00:00:00+08:00</lastmod>
+    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/xintao-wang/</loc>
+    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/ying-shan/</loc>
+    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/zhongang-qi/</loc>
+    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
   </url>
   
   <url>
@@ -218,16 +318,6 @@
   <url>
     <loc>/people/wenxue-cui/</loc>
     <lastmod>2023-10-01T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/people/xiaopeng-fan/</loc>
-    <lastmod>2023-10-01T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2023-09-22T00:00:00+08:00</lastmod>
   </url>
   
   <url>
@@ -426,11 +516,6 @@
   </url>
   
   <url>
-    <loc>/people/renrui-zhang/</loc>
-    <lastmod>2023-02-28T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/people/zesen-cheng/</loc>
     <lastmod>2023-02-28T00:00:00+08:00</lastmod>
   </url>
@@ -476,27 +561,7 @@
   </url>
   
   <url>
-    <loc>/people/jing-zhao/</loc>
-    <lastmod>2023-01-02T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/100061/</loc>
-    <lastmod>2023-01-02T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/people/rui-zhao/</loc>
-    <lastmod>2023-01-02T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/people/ruiqin-xiong/</loc>
-    <lastmod>2023-01-02T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/people/tiejun-huang/</loc>
     <lastmod>2023-01-02T00:00:00+08:00</lastmod>
   </url>
   
@@ -581,17 +646,7 @@
   </url>
   
   <url>
-    <loc>/people/xintao-wang/</loc>
-    <lastmod>2022-07-04T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/people/yanze-wu/</loc>
-    <lastmod>2022-07-04T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/people/ying-shan/</loc>
     <lastmod>2022-07-04T00:00:00+08:00</lastmod>
   </url>
   
@@ -762,11 +817,6 @@
   
   <url>
     <loc>/publication/100047/</loc>
-    <lastmod>2021-07-23T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/people/zhaofei-yu/</loc>
     <lastmod>2021-07-23T00:00:00+08:00</lastmod>
   </url>
   
@@ -1103,11 +1153,6 @@
   <url>
     <loc>/people/xianming-liu/</loc>
     <lastmod>2020-09-08T09:45:07+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/people/xinfeng-zhang/</loc>
-    <lastmod>2020-09-10T09:45:06+08:00</lastmod>
   </url>
   
   <url>

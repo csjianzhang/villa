@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>VILLA</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2023` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2023` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
       <title>VILLA</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
+      <title>Optical Flow for Spike Camera with Hierarchical Spatial-Temporal Spike Fusion</title>
+      <link>/publication/100077/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/100077/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Demosaicing and Denoising for Spike Camera</title>
+      <link>/publication/100076/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/100076/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Faster Person Re-Identification: One-shot-Filter and Coarseto-Fine Search</title>
       <link>/publication/200060/</link>
-      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>/publication/200060/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language-Assisted 3D Scene Understanding</title>
+      <link>/publication/100075/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/100075/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T2i-adapter: Learning adapters to dig out more controllable ability for text-to-image diffusion models</title>
+      <link>/publication/100074/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/100074/</guid>
       <description></description>
     </item>
     

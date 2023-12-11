@@ -5,12 +5,20 @@
     <link>/people/qiankun-gao-%E9%AB%98%E4%B9%BE%E5%9D%A4/</link>
       <atom:link href="/people/qiankun-gao-%E9%AB%98%E4%B9%BE%E5%9D%A4/index.xml" rel="self" type="application/rss+xml" />
     <description>Qiankun Gao (高乾坤)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2023` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Fri, 14 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2023` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
       <title>Qiankun Gao (高乾坤)</title>
       <link>/people/qiankun-gao-%E9%AB%98%E4%B9%BE%E5%9D%A4/</link>
     </image>
+    
+    <item>
+      <title>Language-Assisted 3D Scene Understanding</title>
+      <link>/publication/100075/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/100075/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Unified Continual Learning Framework with General Parameter-Efficient Tuning</title>
