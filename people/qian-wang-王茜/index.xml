@@ -5,12 +5,20 @@
     <link>/people/qian-wang-%E7%8E%8B%E8%8C%9C/</link>
       <atom:link href="/people/qian-wang-%E7%8E%8B%E8%8C%9C/index.xml" rel="self" type="application/rss+xml" />
     <description>Qian Wang (王茜)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2024` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2024` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Thu, 29 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
       <title>Qian Wang (王茜)</title>
       <link>/people/qian-wang-%E7%8E%8B%E8%8C%9C/</link>
     </image>
+    
+    <item>
+      <title>360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model</title>
+      <link>/publication/100084/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/100084/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Panoptic Compositional Feature Field for Editable Scene Rendering with Network-Inferred Labels via Metric Learning</title>

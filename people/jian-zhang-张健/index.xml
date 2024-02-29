@@ -5,12 +5,36 @@
     <link>/people/jian-zhang-%E5%BC%A0%E5%81%A5/</link>
       <atom:link href="/people/jian-zhang-%E5%BC%A0%E5%81%A5/index.xml" rel="self" type="application/rss+xml" />
     <description>Jian Zhang (张健)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2024` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2024` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Thu, 29 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_2.png</url>
       <title>Jian Zhang (张健)</title>
       <link>/people/jian-zhang-%E5%BC%A0%E5%81%A5/</link>
     </image>
+    
+    <item>
+      <title>360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model</title>
+      <link>/publication/100084/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/100084/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DiffEditor: Boosting Accuracy and Flexibility on Diffusion-based Image Editing</title>
+      <link>/publication/100083/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/100083/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection</title>
+      <link>/publication/100085/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/100085/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models</title>
