@@ -5,12 +5,44 @@
     <link>/people/jian-zhang-%E5%BC%A0%E5%81%A5/</link>
       <atom:link href="/people/jian-zhang-%E5%BC%A0%E5%81%A5/index.xml" rel="self" type="application/rss+xml" />
     <description>Jian Zhang (张健)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2024` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Wed, 31 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2024` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_3.png</url>
       <title>Jian Zhang (张健)</title>
       <link>/people/jian-zhang-%E5%BC%A0%E5%81%A5/</link>
     </image>
+    
+    <item>
+      <title>GS-Hider: Hiding Messages into 3D Gaussian Splatting</title>
+      <link>/publication/100090/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/100090/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HiCoM: Hierarchical Coherent Motion for Dynamic Streamable Scenes with 3D Gaussian Splatting</title>
+      <link>/publication/100091/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/100091/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenGaussian: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding</title>
+      <link>/publication/100092/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/100092/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReVideo: Remake a Video with Motion and Content Control</title>
+      <link>/publication/100089/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/100089/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Self-Supervised Scalable Deep Compressed Sensing</title>
