@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yiyang Zhang | VILLA</title>
+    <link>/people/yiyang-zhang/</link>
+      <atom:link href="/people/yiyang-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yiyang Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2025` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Thu, 27 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_3.png</url>
+      <title>Yiyang Zhang</title>
+      <link>/people/yiyang-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Spk2SRImgNet: Super-Resolve Dynamic Scene from Spike Stream via Motion Aligned Collaborative Filtering</title>
+      <link>/publication/100095/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/100095/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

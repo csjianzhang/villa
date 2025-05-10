@@ -5,12 +5,36 @@
     <link>/people/lei-zhang/</link>
       <atom:link href="/people/lei-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Lei Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2025` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2025` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Thu, 27 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_3.png</url>
       <title>Lei Zhang</title>
       <link>/people/lei-zhang/</link>
     </image>
+    
+    <item>
+      <title>Adversarial Diffusion Compression for Real-World Image Super-Resolution</title>
+      <link>/publication/100096/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/100096/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISMimic: Learning Basketball Interaction Skills from Demonstrations</title>
+      <link>/publication/100097/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/100097/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSMamba: Omnidirectional Spectral Mamba with Dual-Domain Prior Generator for Exposure Correction![alt new](/images/new.gif)</title>
+      <link>/publication/100100/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/100100/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts</title>

@@ -5,12 +5,20 @@
     <link>/people/ronggang-wang/</link>
       <atom:link href="/people/ronggang-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Ronggang Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2025` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2025` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Thu, 27 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_3.png</url>
       <title>Ronggang Wang</title>
       <link>/people/ronggang-wang/</link>
     </image>
+    
+    <item>
+      <title>InstanceGaussian: Appearance-Semantic Joint Gaussian Representation for 3D Instance-Level Perception</title>
+      <link>/publication/100099/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/100099/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SecureGS: Boosting the Security and Fidelity of 3D Gaussian Splatting Steganography</title>
