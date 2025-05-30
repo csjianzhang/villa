@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xing Liu | VILLA</title>
+    <link>/people/xing-liu/</link>
+      <atom:link href="/people/xing-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xing Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2025` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_3.png</url>
+      <title>Xing Liu</title>
+      <link>/people/xing-liu/</link>
+    </image>
+    
+    <item>
+      <title>GIR: 3D Gaussian Inverse Rendering for Relightable Scene Factorization</title>
+      <link>/publication/200061/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/200061/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
