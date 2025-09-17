@@ -7,10 +7,19 @@
     <description>Mengxi Jia (贾梦溪)</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2025` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu16b66c2cf49f7857852328888cf4bf88_15211_300x300_fit_lanczos_3.png</url>
+      <url>/images/logo_hu_4133925d3e3575c2.png</url>
       <title>Mengxi Jia (贾梦溪)</title>
       <link>/people/mengxi-jia-%E8%B4%BE%E6%A2%A6%E6%BA%AA/</link>
     </image>
+    
+    <item>
+      <title>Mengxi Jia (贾梦溪)</title>
+      <link>/people/mengxi-jia-%E8%B4%BE%E6%A2%A6%E6%BA%AA/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/people/mengxi-jia-%E8%B4%BE%E6%A2%A6%E6%BA%AA/</guid>
+      <description>&lt;p&gt;I am a CS master student at Peking University (PKU), advised by Prof. Jian Zhang and Prof. Siwei Ma.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Panoptic Compositional Feature Field for Editable Scene Rendering with Network-Inferred Labels via Metric Learning</title>
