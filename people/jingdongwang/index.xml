@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JingdongWang | VILLA</title>
+    <link>//localhost:1313/people/jingdongwang/</link>
+      <atom:link href="//localhost:1313/people/jingdongwang/index.xml" rel="self" type="application/rss+xml" />
+    <description>JingdongWang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2025` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright>
+    <image>
+      <url>//localhost:1313/images/logo_hu_4133925d3e3575c2.png</url>
+      <title>JingdongWang</title>
+      <link>//localhost:1313/people/jingdongwang/</link>
+    </image>
+    
+  </channel>
+</rss>
