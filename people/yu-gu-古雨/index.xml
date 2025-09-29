@@ -5,7 +5,7 @@
     <link>/people/yu-gu-%E5%8F%A4%E9%9B%A8/</link>
       <atom:link href="/people/yu-gu-%E5%8F%A4%E9%9B%A8/index.xml" rel="self" type="application/rss+xml" />
     <description>Yu Gu (古雨)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2025` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2025` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Fri, 19 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu_4133925d3e3575c2.png</url>
       <title>Yu Gu (古雨)</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Yu Gu (古雨)</title>
       <link>/people/yu-gu-%E5%8F%A4%E9%9B%A8/</link>
-      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
       <guid>/people/yu-gu-%E5%8F%A4%E9%9B%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AlignedGen: Aligning Style Across Generated Images</title>
+      <link>/publication/100104/</link>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/100104/</guid>
       <description></description>
     </item>
     

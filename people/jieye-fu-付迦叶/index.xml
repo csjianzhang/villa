@@ -5,7 +5,7 @@
     <link>/people/jieye-fu-%E4%BB%98%E8%BF%A6%E5%8F%B6/</link>
       <atom:link href="/people/jieye-fu-%E4%BB%98%E8%BF%A6%E5%8F%B6/index.xml" rel="self" type="application/rss+xml" />
     <description>Jieye Fu (付迦叶)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2025` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2025` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Fri, 19 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu_4133925d3e3575c2.png</url>
       <title>Jieye Fu (付迦叶)</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Jieye Fu (付迦叶)</title>
       <link>/people/jieye-fu-%E4%BB%98%E8%BF%A6%E5%8F%B6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
       <guid>/people/jieye-fu-%E4%BB%98%E8%BF%A6%E5%8F%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReCon-GS: Continuum-Preserved Guassian Streaming for Fast and Compact Reconstruction of Dynamic Scenes</title>
+      <link>/publication/100105/</link>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/100105/</guid>
       <description></description>
     </item>
     

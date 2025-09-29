@@ -5,7 +5,7 @@
     <link>/people/jian-zhang-%E5%BC%A0%E5%81%A5/</link>
       <atom:link href="/people/jian-zhang-%E5%BC%A0%E5%81%A5/index.xml" rel="self" type="application/rss+xml" />
     <description>Jian Zhang (张健)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2025` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2025` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Sun, 21 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu_4133925d3e3575c2.png</url>
       <title>Jian Zhang (张健)</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Jian Zhang (张健)</title>
       <link>/people/jian-zhang-%E5%BC%A0%E5%81%A5/</link>
-      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
       <guid>/people/jian-zhang-%E5%BC%A0%E5%81%A5/</guid>
       <description>&lt;p&gt;Dr. Jian Zhang is an Associate Professor with Tenure (Ph.D. Supervisor) at
 the School of Electronic and Computer Engineering (SECE),
@@ -48,6 +48,38 @@ In teaching, he won the first prize in the 23rd Young Teachers&amp;rsquo; Teachi
     </item>
     
     <item>
+      <title>Q-Insight: Understanding Image Quality via Visual Reinforcement Learning</title>
+      <link>/publication/100106/</link>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/100106/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AlignedGen: Aligning Style Across Generated Images</title>
+      <link>/publication/100104/</link>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/100104/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReCon-GS: Continuum-Preserved Guassian Streaming for Fast and Compact Reconstruction of Dynamic Scenes</title>
+      <link>/publication/100105/</link>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/100105/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AssetDropper: Asset Extraction via Diffusion Models with Reward-Driven Optimization</title>
+      <link>/publication/100101/</link>
+      <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/100101/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GIR: 3D Gaussian Inverse Rendering for Relightable Scene Factorization</title>
       <link>/publication/200061/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
@@ -56,10 +88,10 @@ In teaching, he won the first prize in the 23rd Young Teachers&amp;rsquo; Teachi
     </item>
     
     <item>
-      <title>AssetDropper: Asset Extraction via Diffusion Models with Reward-Driven Optimization</title>
-      <link>/publication/100101/</link>
-      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/100101/</guid>
+      <title>DreamO: A Unified Framework for Image Customization</title>
+      <link>/publication/100103/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/100103/</guid>
       <description></description>
     </item>
     

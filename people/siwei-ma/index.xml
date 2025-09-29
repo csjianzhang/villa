@@ -5,12 +5,20 @@
     <link>/people/siwei-ma/</link>
       <atom:link href="/people/siwei-ma/index.xml" rel="self" type="application/rss+xml" />
     <description>Siwei Ma</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2025` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Thu, 20 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2025` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Fri, 19 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu_4133925d3e3575c2.png</url>
       <title>Siwei Ma</title>
       <link>/people/siwei-ma/</link>
     </image>
+    
+    <item>
+      <title>ReCon-GS: Continuum-Preserved Guassian Streaming for Fast and Compact Reconstruction of Dynamic Scenes</title>
+      <link>/publication/100105/</link>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/100105/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Semantic-aware Visual Decomposition for Image Coding</title>

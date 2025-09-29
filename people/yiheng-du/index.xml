@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yiheng Du | VILLA</title>
+    <link>/people/yiheng-du/</link>
+      <atom:link href="/people/yiheng-du/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yiheng Du</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2025` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Fri, 19 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu_4133925d3e3575c2.png</url>
+      <title>Yiheng Du</title>
+      <link>/people/yiheng-du/</link>
+    </image>
+    
+    <item>
+      <title>AlignedGen: Aligning Style Across Generated Images</title>
+      <link>/publication/100104/</link>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/100104/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>/people/yanze-wu/</link>
       <atom:link href="/people/yanze-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yanze Wu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2025` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Mon, 08 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2025` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu_4133925d3e3575c2.png</url>
       <title>Yanze Wu</title>
       <link>/people/yanze-wu/</link>
     </image>
+    
+    <item>
+      <title>DreamO: A Unified Framework for Image Customization</title>
+      <link>/publication/100103/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/100103/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Empowering Real-World Image Super-Resolution with Flexible Interactive Modulation</title>

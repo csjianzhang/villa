@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yufeng Cheng | VILLA</title>
+    <link>/people/yufeng-cheng/</link>
+      <atom:link href="/people/yufeng-cheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yufeng Cheng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2025` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu_4133925d3e3575c2.png</url>
+      <title>Yufeng Cheng</title>
+      <link>/people/yufeng-cheng/</link>
+    </image>
+    
+    <item>
+      <title>DreamO: A Unified Framework for Image Customization</title>
+      <link>/publication/100103/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/100103/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

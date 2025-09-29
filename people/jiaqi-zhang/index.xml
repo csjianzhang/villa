@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiaqi Zhang | VILLA</title>
+    <link>/people/jiaqi-zhang/</link>
+      <atom:link href="/people/jiaqi-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiaqi Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2025` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Fri, 19 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu_4133925d3e3575c2.png</url>
+      <title>Jiaqi Zhang</title>
+      <link>/people/jiaqi-zhang/</link>
+    </image>
+    
+    <item>
+      <title>ReCon-GS: Continuum-Preserved Guassian Streaming for Fast and Compact Reconstruction of Dynamic Scenes</title>
+      <link>/publication/100105/</link>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/100105/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

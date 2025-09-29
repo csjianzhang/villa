@@ -5,7 +5,7 @@
     <link>/people/xuanyu-zhang-%E5%BC%A0%E8%BD%A9%E5%AE%87/</link>
       <atom:link href="/people/xuanyu-zhang-%E5%BC%A0%E8%BD%A9%E5%AE%87/index.xml" rel="self" type="application/rss+xml" />
     <description>Xuanyu Zhang (张轩宇)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2025` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Thu, 27 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2025` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Sun, 21 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu_4133925d3e3575c2.png</url>
       <title>Xuanyu Zhang (张轩宇)</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Xuanyu Zhang (张轩宇)</title>
       <link>/people/xuanyu-zhang-%E5%BC%A0%E8%BD%A9%E5%AE%87/</link>
-      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
       <guid>/people/xuanyu-zhang-%E5%BC%A0%E8%BD%A9%E5%AE%87/</guid>
       <description></description>
     </item>
@@ -25,6 +25,14 @@
       <link>/people/xuanyu-zhang-%E5%BC%A0%E8%BD%A9%E5%AE%87-%E8%BD%AC%E5%8D%9A/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/people/xuanyu-zhang-%E5%BC%A0%E8%BD%A9%E5%AE%87-%E8%BD%AC%E5%8D%9A/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Q-Insight: Understanding Image Quality via Visual Reinforcement Learning</title>
+      <link>/publication/100106/</link>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/100106/</guid>
       <description></description>
     </item>
     
