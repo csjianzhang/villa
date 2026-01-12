@@ -5,7 +5,7 @@
     <link>/people/xuhan-sheng-%E7%9B%9B%E6%A0%A9%E6%B6%B5/</link>
       <atom:link href="/people/xuhan-sheng-%E7%9B%9B%E6%A0%A9%E6%B6%B5/index.xml" rel="self" type="application/rss+xml" />
     <description>Xuhan Sheng (盛栩涵)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2025` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2026` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Sun, 30 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu_4133925d3e3575c2.png</url>
       <title>Xuhan Sheng (盛栩涵)</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Xuhan Sheng (盛栩涵)</title>
       <link>/people/xuhan-sheng-%E7%9B%9B%E6%A0%A9%E6%B6%B5/</link>
-      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
       <guid>/people/xuhan-sheng-%E7%9B%9B%E6%A0%A9%E6%B6%B5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video Generation</title>
+      <link>/publication/200062/</link>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/200062/</guid>
       <description></description>
     </item>
     
