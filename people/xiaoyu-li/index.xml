@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaoyu Li | VILLA</title>
+    <link>/people/xiaoyu-li/</link>
+      <atom:link href="/people/xiaoyu-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaoyu Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2026` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu_4133925d3e3575c2.png</url>
+      <title>Xiaoyu Li</title>
+      <link>/people/xiaoyu-li/</link>
+    </image>
+    
+    <item>
+      <title>GenCompositor: Generative Video Compositing with Diffusion Transformer</title>
+      <link>/publication/100109/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/100109/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

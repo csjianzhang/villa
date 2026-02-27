@@ -5,7 +5,7 @@
     <link>/people/xuanyu-zhang-%E5%BC%A0%E8%BD%A9%E5%AE%87/</link>
       <atom:link href="/people/xuanyu-zhang-%E5%BC%A0%E8%BD%A9%E5%AE%87/index.xml" rel="self" type="application/rss+xml" />
     <description>Xuanyu Zhang (张轩宇)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2026` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Sun, 21 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2026` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu_4133925d3e3575c2.png</url>
       <title>Xuanyu Zhang (张轩宇)</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Xuanyu Zhang (张轩宇)</title>
       <link>/people/xuanyu-zhang-%E5%BC%A0%E8%BD%A9%E5%AE%87/</link>
-      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
       <guid>/people/xuanyu-zhang-%E5%BC%A0%E8%BD%A9%E5%AE%87/</guid>
       <description></description>
     </item>
@@ -25,6 +25,46 @@
       <link>/people/xuanyu-zhang-%E5%BC%A0%E8%BD%A9%E5%AE%87-%E8%BD%AC%E5%8D%9A/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/people/xuanyu-zhang-%E5%BC%A0%E8%BD%A9%E5%AE%87-%E8%BD%AC%E5%8D%9A/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReAlign: Generalizable Image Forgery Detection via Reasoning-Aligned Representation</title>
+      <link>/publication/100111/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/100111/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UARE: A Unified Vision-Language Model for Image Quality Assessment, Restoration, and Enhancement</title>
+      <link>/publication/100113/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/100113/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Adversarial Diffusion Compression for Real-World Video Super-Resolution</title>
+      <link>/publication/100110/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/100110/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reasoning as Representation: Rethinking Visual Reinforcement Learning in Image Quality Assessment</title>
+      <link>/publication/100107/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/100107/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VQ-Insight: Teaching VLMs for AI-Generated Video Quality Understanding via Progressive Visual Reinforcement Learning</title>
+      <link>/publication/100108/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/100108/</guid>
       <description></description>
     </item>
     
