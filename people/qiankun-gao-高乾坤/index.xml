@@ -5,7 +5,7 @@
     <link>/people/qiankun-gao-%E9%AB%98%E4%B9%BE%E5%9D%A4/</link>
       <atom:link href="/people/qiankun-gao-%E9%AB%98%E4%B9%BE%E5%9D%A4/index.xml" rel="self" type="application/rss+xml" />
     <description>Qiankun Gao (高乾坤)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2026` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Fri, 19 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2026` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright>
     <image>
       <url>/images/logo_hu_4133925d3e3575c2.png</url>
       <title>Qiankun Gao (高乾坤)</title>
@@ -15,48 +15,8 @@
     <item>
       <title>Qiankun Gao (高乾坤)</title>
       <link>/people/qiankun-gao-%E9%AB%98%E4%B9%BE%E5%9D%A4/</link>
-      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/people/qiankun-gao-%E9%AB%98%E4%B9%BE%E5%9D%A4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ReCon-GS: Continuum-Preserved Guassian Streaming for Fast and Compact Reconstruction of Dynamic Scenes</title>
-      <link>/publication/100105/</link>
-      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/100105/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>InstanceGaussian: Appearance-Semantic Joint Gaussian Representation for 3D Instance-Level Perception</title>
-      <link>/publication/100099/</link>
-      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/100099/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HiCoM: Hierarchical Coherent Motion for Dynamic Streamable Scenes with 3D Gaussian Splatting</title>
-      <link>/publication/100091/</link>
-      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/100091/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Unified Continual Learning Framework with General Parameter-Efficient Tuning</title>
-      <link>/publication/100071/</link>
-      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/100071/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R-DFCIL: Relation-Guided Representation Learning for Data-Free Class Incremental Learning</title>
-      <link>/publication/100058/</link>
-      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/100058/</guid>
       <description></description>
     </item>
     
