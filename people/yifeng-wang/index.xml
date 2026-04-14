@@ -1,30 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yifeng Wang | VILLA</title>
+    <title>Yifeng Wang* | VILLA</title>
     <link>/people/yifeng-wang/</link>
       <atom:link href="/people/yifeng-wang/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yifeng Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2026` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <description>Yifeng Wang*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2026` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu_4133925d3e3575c2.png</url>
-      <title>Yifeng Wang</title>
+      <title>Yifeng Wang*</title>
       <link>/people/yifeng-wang/</link>
     </image>
     
     <item>
-      <title>Multiple Instance Learning with Mixed Supervision in Gleason Grading</title>
-      <link>/publication/100057/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/100057/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classification</title>
-      <link>/publication/100048/</link>
-      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/100048/</guid>
+      <title>Unpaired Multi-Domain Stain Transfer for Kidney Histopathological Images</title>
+      <link>/publication/100050/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/100050/</guid>
       <description></description>
     </item>
     
