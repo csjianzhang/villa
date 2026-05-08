@@ -5,7 +5,7 @@
     <link>/people/zhizhen-zhang-%E5%BC%A0%E5%BF%97%E8%87%BB/</link>
       <atom:link href="/people/zhizhen-zhang-%E5%BC%A0%E5%BF%97%E8%87%BB/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhizhen Zhang (张志臻)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2026` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2026` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu_4133925d3e3575c2.png</url>
       <title>Zhizhen Zhang (张志臻)</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Zhizhen Zhang (张志臻)</title>
       <link>/people/zhizhen-zhang-%E5%BC%A0%E5%BF%97%E8%87%BB/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
       <guid>/people/zhizhen-zhang-%E5%BC%A0%E5%BF%97%E8%87%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StableI2I: Spotting Unintended Changes in Image-to-Image Transition</title>
+      <link>/publication/100114/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/100114/</guid>
       <description></description>
     </item>
     

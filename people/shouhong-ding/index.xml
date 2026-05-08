@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shouhong Ding | VILLA</title>
+    <link>/people/shouhong-ding/</link>
+      <atom:link href="/people/shouhong-ding/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shouhong Ding</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2026` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu_4133925d3e3575c2.png</url>
+      <title>Shouhong Ding</title>
+      <link>/people/shouhong-ding/</link>
+    </image>
+    
+    <item>
+      <title>GenShield: Unified Detection and Artifact Correction for AI-Generated Images</title>
+      <link>/publication/100115/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/100115/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>/people/jiayang-li-%E6%9D%8E%E4%BD%B3%E9%98%B3/</link>
       <atom:link href="/people/jiayang-li-%E6%9D%8E%E4%BD%B3%E9%98%B3/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiayang Li (李佳阳)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2026` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2026` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu_4133925d3e3575c2.png</url>
       <title>Jiayang Li (李佳阳)</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Jiayang Li (李佳阳)</title>
       <link>/people/jiayang-li-%E6%9D%8E%E4%BD%B3%E9%98%B3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
       <guid>/people/jiayang-li-%E6%9D%8E%E4%BD%B3%E9%98%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StableI2I: Spotting Unintended Changes in Image-to-Image Transition</title>
+      <link>/publication/100114/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/100114/</guid>
       <description></description>
     </item>
     

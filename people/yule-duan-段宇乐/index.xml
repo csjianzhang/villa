@@ -5,7 +5,7 @@
     <link>/people/yule-duan-%E6%AE%B5%E5%AE%87%E4%B9%90/</link>
       <atom:link href="/people/yule-duan-%E6%AE%B5%E5%AE%87%E4%B9%90/index.xml" rel="self" type="application/rss+xml" />
     <description>Yule Duan (段宇乐)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2026` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2026` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu_4133925d3e3575c2.png</url>
       <title>Yule Duan (段宇乐)</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Yule Duan (段宇乐)</title>
       <link>/people/yule-duan-%E6%AE%B5%E5%AE%87%E4%B9%90/</link>
-      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
       <guid>/people/yule-duan-%E6%AE%B5%E5%AE%87%E4%B9%90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StableI2I: Spotting Unintended Changes in Image-to-Image Transition</title>
+      <link>/publication/100114/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/100114/</guid>
       <description></description>
     </item>
     

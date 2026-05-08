@@ -5,12 +5,20 @@
     <link>/people/qing-huang/</link>
       <atom:link href="/people/qing-huang/index.xml" rel="self" type="application/rss+xml" />
     <description>Qing Huang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2026` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2026` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu_4133925d3e3575c2.png</url>
       <title>Qing Huang</title>
       <link>/people/qing-huang/</link>
     </image>
+    
+    <item>
+      <title>GenShield: Unified Detection and Artifact Correction for AI-Generated Images</title>
+      <link>/publication/100115/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/100115/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ReAlign: Generalizable Image Forgery Detection via Reasoning-Aligned Representation</title>

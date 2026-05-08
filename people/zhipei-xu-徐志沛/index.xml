@@ -5,7 +5,7 @@
     <link>/people/zhipei-xu-%E5%BE%90%E5%BF%97%E6%B2%9B/</link>
       <atom:link href="/people/zhipei-xu-%E5%BE%90%E5%BF%97%E6%B2%9B/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhipei Xu (徐志沛)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2026` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2026` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu_4133925d3e3575c2.png</url>
       <title>Zhipei Xu (徐志沛)</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Zhipei Xu (徐志沛)</title>
       <link>/people/zhipei-xu-%E5%BE%90%E5%BF%97%E6%B2%9B/</link>
-      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
       <guid>/people/zhipei-xu-%E5%BE%90%E5%BF%97%E6%B2%9B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GenShield: Unified Detection and Artifact Correction for AI-Generated Images</title>
+      <link>/publication/100115/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/100115/</guid>
       <description></description>
     </item>
     
