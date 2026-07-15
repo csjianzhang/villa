@@ -2,15 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weiqi Li | VILLA</title>
-    <link>//localhost:1313/people/weiqi-li/</link>
-      <atom:link href="//localhost:1313/people/weiqi-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>/people/weiqi-li/</link>
+      <atom:link href="/people/weiqi-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Weiqi Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2026` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2026` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Tue, 02 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/logo_hu_4133925d3e3575c2.png</url>
+      <url>/images/logo_hu_4133925d3e3575c2.png</url>
       <title>Weiqi Li</title>
-      <link>//localhost:1313/people/weiqi-li/</link>
+      <link>/people/weiqi-li/</link>
     </image>
+    
+    <item>
+      <title>OARS: Process-Aware Online Alignment for Generative Real-World Image Super-Resolution</title>
+      <link>/publication/100116/</link>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/100116/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DualDiff3D: Dual Structure-Appearance Diffusion Priors for Reliability-Enhanced 3D Gaussian Splatting</title>
+      <link>/publication/100117/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/100117/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

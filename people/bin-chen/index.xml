@@ -2,15 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bin Chen | VILLA</title>
-    <link>//localhost:1313/people/bin-chen/</link>
-      <atom:link href="//localhost:1313/people/bin-chen/index.xml" rel="self" type="application/rss+xml" />
+    <link>/people/bin-chen/</link>
+      <atom:link href="/people/bin-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Bin Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2026` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2026` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Tue, 02 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/logo_hu_4133925d3e3575c2.png</url>
+      <url>/images/logo_hu_4133925d3e3575c2.png</url>
       <title>Bin Chen</title>
-      <link>//localhost:1313/people/bin-chen/</link>
+      <link>/people/bin-chen/</link>
     </image>
+    
+    <item>
+      <title>OARS: Process-Aware Online Alignment for Generative Real-World Image Super-Resolution</title>
+      <link>/publication/100116/</link>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/100116/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
