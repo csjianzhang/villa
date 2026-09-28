@@ -5,7 +5,7 @@
     <link>/people/bin-chen-%E9%99%88%E6%96%8C/</link>
       <atom:link href="/people/bin-chen-%E9%99%88%E6%96%8C/index.xml" rel="self" type="application/rss+xml" />
     <description>Bin Chen (陈斌)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2026` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © `2026` VILLA · Peking University | Powered by Wowchemy | 粤ICP备2021179063号</copyright><lastBuildDate>Tue, 02 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu_4133925d3e3575c2.png</url>
       <title>Bin Chen (陈斌)</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Bin Chen (陈斌)</title>
       <link>/people/bin-chen-%E9%99%88%E6%96%8C/</link>
-      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
       <guid>/people/bin-chen-%E9%99%88%E6%96%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OARS: Process-Aware Online Alignment for Generative Real-World Image Super-Resolution</title>
+      <link>/publication/100116/</link>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/100116/</guid>
       <description></description>
     </item>
     
